@@ -1,0 +1,36 @@
+<div class="box">
+            <img src="images/coding.png" alt="">
+            <h2>PROGRAMMING</h2>
+            <p>WAXAAD QAYBTAN KU BARANAYSA LUUQADAHA HIGH LEVEL LANGUAGE <span>C++,C#</span></p>
+             <button class="btn"><a href="#">See More</a></button>
+        </div>
+
+        <div class="box">
+            <img src="images/database-storage.png" alt="">
+            <h2>DATABASE</h2>
+            <p>QAYBTAN WAXAAD KU BARANAYSAA SIDA LOO MAAMULO DATABASESKA <span>SQL,MYSQL</span></p>
+            <button class="btn"><a href="#">See More</a></button>
+        </div>
+
+    </div>
+   </div>
+
+   <!-- end courses section -->
+    
+
+
+   <footer>
+
+    <div class="bottom-bar">
+        <p>&copy; 2025 ORBIT COLLEGE .ALL Right Reserved</p>
+        <a href="https://m.facebook.com/SalloSenior/" target="_blank"><img src="./icones/instagram.svg" alt=""></a>
+    </div>
+
+</footer>
+
+</body>
+</html>
+
+
+
+
